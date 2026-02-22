@@ -28,5 +28,5 @@ intents.message_content = True
 
 client = MyClient(intents=intents)
 
-# Paste your discord bot token instead of TOKEN
+# USE THE VARIABLE HERE, NOT THE LONG STRING
 client.run(TOKEN)
